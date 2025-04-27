@@ -1,4 +1,3 @@
-//Evan Burlaka - Simple Ping Client
 import java.net.*;
 
 public class SimplePingClient {
