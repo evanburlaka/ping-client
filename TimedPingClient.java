@@ -1,4 +1,3 @@
-//En Burlaka - Timed Ping Client
 import java.net.*;
 
 public class TimedPingClient {
