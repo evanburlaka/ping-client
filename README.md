@@ -5,20 +5,26 @@ Files Included:
 - TimedPingClient.java → Measure round-trip time (RTT) using UDP packets
 
 How to Run SimplePingClient:
-  java SimplePingClient.java <hostname>
 
+java SimplePingClient.java <hostname>
+  
 Examples:
+  
   java SimplePingClient.java google.com
+  
   java SimplePingClient.java 8.8.8.8
   
   - Checks if the given host is reachable
   - Displays if the host is reachable or not
 
 How to Run TimedPingClient:
+
   java TimedPingClient.java <hostname>
 
 Examples:
+  
   java TimedPingClient.java 1.1.1.1
+  
   java TimedPingClient.java dns.google
   
   - Sends a UDP packet to the host
